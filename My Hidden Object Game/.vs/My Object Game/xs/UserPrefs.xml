@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6642D7D6-1E29-6B2C-97A8-545409307084}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Fungus/Scripts/Commands/ShakeCamera.cs">
+    <Files>
+      <File FileName="Assets/Score.cs" Line="9" Column="1" />
+      <File FileName="Assets/Fungus/Scripts/Commands/CallMethod.cs" Line="29" Column="10" />
+      <File FileName="Assets/Fungus/Scripts/Commands/ScoreScript.cs" Line="18" Column="50" />
+      <File FileName="Assets/Fungus/Scripts/Commands/ShakeCamera.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

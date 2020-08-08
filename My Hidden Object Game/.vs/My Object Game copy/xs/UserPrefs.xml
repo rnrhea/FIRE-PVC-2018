@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D75A4D6C-24ED-505B-2BE2-36F7108C34F4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Start_BlueRoom.cs">
+    <Files>
+      <File FileName="Assets/changeARhintStripe.cs" Line="1" Column="1" />
+      <File FileName="Assets/changeARhintFlower.cs" Line="17" Column="1" />
+      <File FileName="Assets/changeARhintHair.cs" Line="1" Column="1" />
+      <File FileName="Assets/Start_Go_To_Luncheon.cs" Line="1" Column="1" />
+      <File FileName="Assets/Start_BlueRoom.cs" Line="1" Column="1" />
+      <File FileName="Assets/changeLuncheon.cs" Line="6" Column="1" />
+      <File FileName="Assets/Score.cs" Line="10" Column="1" />
+      <File FileName="Assets/ScoreScript.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rheanair/My Object Game copy/Assets/changeARhint2.cs" relfile="Assets/changeARhint2.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Luncheon.unity
+    guid: fc4d8a84777a14b7ea18660d094284f5
+  - enabled: 1
+    path: Assets/Scenes/Hints_Luncheon/ARhint1.unity
+    guid: 248a1f9fbf35b4ee58ae49adeea4ce82
+  - enabled: 1
+    path: Assets/Scenes/Hints_Luncheon/ARhint2.unity
+    guid: 6f92935cc4fc44e0cbb941b01ffc1e23
+  - enabled: 1
+    path: Assets/Scenes/Hints_Luncheon/ARhint3.unity
+    guid: 4ed9da03fffe749e7b356a97f1ed75a2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/RoadMender.unity
+    guid: bf4c37c017f87482abf26705207c6bcc
+  - enabled: 1
+    path: Assets/Scenes/Hints_RoadMenders/ARhint_Branch.unity
+    guid: d9e22f4ff01d445e5a9c96b494f39d0d
+  - enabled: 1
+    path: Assets/Scenes/Hints_RoadMenders/ARhint_Bucket.unity
+    guid: 943f718dcb442450393420dcafe50bd3
+  - enabled: 1
+    path: Assets/Scenes/Hints_RoadMenders/ARhint_Lady.unity
+    guid: ce34b16bbd44d4cff9145466625bb091
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 2cc89f0622d3b4c4fb652ebc55dc800e
+  - enabled: 1
+    path: Assets/Scenes/BlueRoom.unity
+    guid: 98ef02b1a107b49358ec9b7f22ba0d0a
+  - enabled: 1
+    path: Assets/Scenes/Hints_BlueRoom/ARhintHair.unity
+    guid: 8901b45aed31e4d5ca4b211434b8d749
+  - enabled: 1
+    path: Assets/Scenes/Hints_BlueRoom/ARhintFlower.unity
+    guid: 75f5ee561ad384b7494689e2a87f33eb
+  - enabled: 1
+    path: Assets/Scenes/Hints_BlueRoom/ARhintStripe.unity
+    guid: 20e32c41996874a9ab4741910a00d063
+  m_configObjects: {}
